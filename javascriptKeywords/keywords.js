@@ -1,4 +1,4 @@
-// A list of JavaScript keywords
+// A list of the JavaScript keywords
 
 
 // break
